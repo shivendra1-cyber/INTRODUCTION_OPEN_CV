@@ -34,7 +34,7 @@ We welcome contributions from the open-source community. If you have improvement
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute OpenCV for your own projects.
+This project is licensed under the [GPU](LICENSE), which means you are free to use, modify, and distribute OpenCV for your own projects.
 
 ## Resources
 
